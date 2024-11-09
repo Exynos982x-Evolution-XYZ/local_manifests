@@ -2,7 +2,7 @@
 <manifest>
 
     <!--Remotes-->
-    <remote name="orga"                         fetch="https://github.com/Exynos982x-Evolution-XYZ"                    revision="udc" />
+    <remote name="orga"                         fetch="https://github.com/Exynos982x-Evolution-XYZ"                    revision="vic" />
 
     <!--Devices Trees-->
     <project name="android_device_samsung_d2x"                          path="device/samsung/d2x"                      remote="orga" />
